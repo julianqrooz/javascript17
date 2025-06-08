@@ -1,0 +1,82 @@
+[
+    {
+        "title": "What does CSS stand for?",
+        "answer_1": "Creative Style Sheets",
+        "answer_2": "Cascading Style Sheets",
+        "answer_3": "Computer Style Sheets",
+        "answer_4": "Colorful Style Sheets",
+        "right_answer": "Cascading Style Sheets"
+    },
+    {
+        "title": "Which property is used to change the text color in CSS?",
+        "answer_1": "font-color",
+        "answer_2": "color",
+        "answer_3": "text-color",
+        "answer_4": "background-color",
+        "right_answer": "color"
+    },
+    {
+        "title": "How do you select an element with id 'header' in CSS?",
+        "answer_1": ".header",
+        "answer_2": "#header",
+        "answer_3": "header",
+        "answer_4": "*header",
+        "right_answer": "#header"
+    },
+    {
+        "title": "Which CSS property controls the size of text?",
+        "answer_1": "font-style",
+        "answer_2": "text-size",
+        "answer_3": "font-size",
+        "answer_4": "text-style",
+        "right_answer": "font-size"
+    },
+    {
+        "title": "How do you make a list not display bullet points?",
+        "answer_1": "list-style-type: none;",
+        "answer_2": "text-decoration: none;",
+        "answer_3": "bullet: none;",
+        "answer_4": "list-type: none;",
+        "right_answer": "list-style-type: none;"
+    },
+    {
+        "title": "Which property is used to change the background color?",
+        "answer_1": "color",
+        "answer_2": "background-color",
+        "answer_3": "bgcolor",
+        "answer_4": "background-style",
+        "right_answer": "background-color"
+    },
+    {
+        "title": "How do you make text bold in CSS?",
+        "answer_1": "font-weight: bold;",
+        "answer_2": "font-style: bold;",
+        "answer_3": "text-weight: bold;",
+        "answer_4": "bold: true;",
+        "right_answer": "font-weight: bold;"
+    },
+    {
+        "title": "Which CSS property is used to add space inside an element's border?",
+        "answer_1": "margin",
+        "answer_2": "padding",
+        "answer_3": "border-spacing",
+        "answer_4": "spacing",
+        "right_answer": "padding"
+    },
+    {
+        "title": "How do you select all <p> elements in CSS?",
+        "answer_1": "#p",
+        "answer_2": ".p",
+        "answer_3": "p",
+        "answer_4": "*p",
+        "right_answer": "p"
+    },
+    {
+        "title": "Which property is used to set the space between lines of text?",
+        "answer_1": "line-spacing",
+        "answer_2": "line-height",
+        "answer_3": "spacing",
+        "answer_4": "text-spacing",
+        "right_answer": "line-height"
+    }
+]
